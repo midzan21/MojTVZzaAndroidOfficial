@@ -9,6 +9,12 @@ Amazon App Store - http://bit.ly/MojTVZAndroid
 
 Android File Host - http://bit.ly/MojTVZAndroidv4AFHMirrorNew
 
+## Istaknuto i na xda-developers forumu
+
+Opis aplikacije je na Engleskom jeziku, tako da bi se uklopilo u sam forum. Putem ovoga je povećan broj posjeta na GitHub projekt za korištenje templatea od dizajna.
+
+Link - http://forum.xda-developers.com/android/apps-games/app-moj-tvz-android-t3290255
+
 ## Changelog
 
 ###v5.0
@@ -85,4 +91,4 @@ Android File Host - http://bit.ly/MojTVZAndroidv4AFHMirrorNew
 * MDPI rezolucija ekrana (320 x 480 px)
 
 
-Copyright &copy; 2014-2015 by Marko Idžan
+Copyright &copy; 2014-2016 by Marko Idžan
