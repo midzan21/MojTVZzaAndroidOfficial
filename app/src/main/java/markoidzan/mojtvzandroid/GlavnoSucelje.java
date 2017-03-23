@@ -43,7 +43,6 @@ public class GlavnoSucelje extends AppCompatActivity implements NavigationView.O
 
 
         drawerToggle = new ActionBarDrawerToggle(this, drawerLayout, toolbar, R.string.drawer_open, R.string.drawer_close);
-        drawerLayout.setDrawerListener(drawerToggle);
         drawerToggle.syncState();
 
         mSelectedId = savedInstanceState ==null ? R.id.mojvij : savedInstanceState.getInt("SELECTED_ID");
