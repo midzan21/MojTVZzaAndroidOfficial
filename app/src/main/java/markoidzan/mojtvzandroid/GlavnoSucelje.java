@@ -64,13 +64,7 @@ public class GlavnoSucelje extends AppCompatActivity implements NavigationView.O
 
     }
 
-
-
-
-
-
-
-
+    
     private void selectItem(int mSelectedId) {
         Fragment fragement = null;
         Class fragmentClass = null;
