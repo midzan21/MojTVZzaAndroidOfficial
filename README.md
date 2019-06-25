@@ -1,5 +1,9 @@
-Moj TVZ za Android
-======================
+# Project is deprecated!
+# Ovaj projekt je deprecated od lipnja 2019. godine!
+
+Svi koji ste voljni preuzeti projekt na svoje ruke, slobodni ste, source kod je pod GPL licencom te se isti može iskoristiti i za neke druge projekte.
+
+# Moj TVZ za Android
 
 Android aplikacija za Intranet portal Tehničkog veleučilišta u Zagrebu. 
 
