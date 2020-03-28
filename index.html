@@ -8,44 +8,39 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/custom.css">
         <title>Moj TVZ za Android&trade;</title>
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon.png">
+        <link rel="icon" href="/android-chrome-96x96.png">
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     </head>
     
     <body>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <a href="index.html"><img src="images/brand-logo.png"></a>
-                </div>
-                <div class="col-md-8">
-                    <nav class="navbar navbar-dark bg-inverse">
-                        <button class="navbar-toggler hidden-sm-up" type="button" data-toggle="collapse" data-target="#navigation">
-                            &#9776;
-                        </button>
-                        <div class="collapse navbar-toggleable-xs" id="navigation">
-
-                            <ul class="nav navbar-nav pull-md-right">
-                                
-                                <li class="nav-item">
-                                    <a class="nav-link active" href="index.html">Naslovnica</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="o-aplikaciji.html">O aplikaciji</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="tehnicki-detalji.html">Tehnički detalji o aplikaciji</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="stare-verzije.html">Stare verzije aplikacije</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="revizije-aplikacije.html">Revizije aplikacije</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </nav>
-                </div>
+        
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="/">Moj TVZ za Android</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse" id="navigation">
+                <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Naslovnica</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="o-aplikaciji.html">O aplikaciji</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="tehnicki-detalji.html">Tehnički detalji o aplikaciji</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="stare-verzije.html">Stare verzije aplikacije</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="revizije-aplikacije.html">Revizije aplikacije</a>
+                </li>
             </div>
-        </div>
+        </nav>
+            
         
         <div class="container">
             <div class="jumbotron">
@@ -64,19 +59,17 @@
                     <h2>Preuzmite aplikaciju</h2>
                     <p>Aplikaciju je moguće preuzeti sa više izvora, no najsigurniji je Amazon AppStore.</p>
                     <a href="http://www.amazon.com/gp/product/B00SZJTMUM/ref=cm_cr_ryp_prd_ttl_sol_0" target="_blank"><img src="images/amazon-store.png" class="img-fluid sidebar-spacing-download" alt="Preuzmite sa Amazon App Store"></a>
-                    <p>Ostali službeni izvori su AndroidFileHost (AFH) i xda-developers forum.</p>
-                    <a href="https://www.androidfilehost.com/?fid=24269982087003997" target="_blank"><img src="images/afh.png" class="img-fluid sidebar-spacing-download thumb-home" alt="Preuzmite sa Android File Host"></a>
                 </div>
                 <div class="col-md-4">
                     <h2>Pogledajte source kod</h2>
-                    <a href="https://github.com/midzan21/MojTVZzaAndroidOfficial" target="_blank"><img src="images/github.png" class="img-fluid" alt="Provjerite source-kod"></a>
+                    <a href="https://github.com/idzan/MojTVZzaAndroidOfficial" target="_blank"><img src="images/github.png" class="img-fluid" alt="Provjerite source-kod"></a>
                     <p>Aplikacija je open-source te je licencirana pod <a href="http://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GPL v3 licencijom</a> uz dozvole za daljnje modifikacije i poboljšanja aplikacije.</p>
                     <img src="images/gplv3.png" alt=" " class="img-fluid">
                 </div>
                 <div class="col-md-4">
                     <h2>Istaknuto i na:</h2>
                     <p>Ovaj projekt je istaknut i na xda-developers forumu.</p>
-                    <a href="http://forum.xda-developers.com/android/apps-games/app-moj-tvz-android-t3290255" target="_blank"><img src="images/xda.png" class="img-fluid sidebar-spacing-download thumb-home"></a>
+                    <a href="https://forum.xda-developers.com/android/apps-games/app-moj-tvz-android-t3290255" target="_blank"><img src="images/xda.png" class="img-fluid sidebar-spacing-download thumb-home"></a>
                     <p>Preuzmite preko xda-Labs aplikacije</p>
                 </div>
             </div>
@@ -85,12 +78,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="text-xs-right">Copyright &copy; 2014-2016</p>
+                    <p class="text-xs-right">Copyright &copy; 2014-2020</p>
                 </div>
             </div>
         </div>
         
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         
     </body>
