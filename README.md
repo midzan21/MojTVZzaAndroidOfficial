@@ -7,8 +7,6 @@ Android aplikacija za Intranet portal Tehničkog veleučilišta u Zagrebu.
 
 Amazon App Store - http://bit.ly/MojTVZAndroid
 
-Android File Host - http://bit.ly/MojTVZAndroidv4AFHMirrorNew
-
 ## Istaknuto i na xda-developers forumu
 
 Opis aplikacije je na Engleskom jeziku, tako da bi se uklopilo u sam forum. Putem ovoga je povećan broj posjeta na GitHub projekt za korištenje templatea od dizajna.
@@ -17,7 +15,7 @@ Link - http://forum.xda-developers.com/android/apps-games/app-moj-tvz-android-t3
 
 ## Changelog
 
-###v5.0
+### v5.0
 
 * Prilagođen Navigation Drawer sa Google Design Support Library-em
 * Sitne dizajnerske promjene
@@ -27,39 +25,39 @@ Link - http://forum.xda-developers.com/android/apps-games/app-moj-tvz-android-t3
 * Nova ikona
 * Obnovljena ikona za aplikaciju
 
-###v4.0
+### v4.0
 
 * Dodana podrška za Android 6.0, te je poboljšana podrška za uređaje sa Androidom 5.1
 * Revizija za Amazon App Store
 * Sitna poboljšanja koda web sučelja
 
-###v3.0
+### v3.0
 
 * Optimizacije koda
 * Izrađena ikona
 * Sitne prepravke u samom dizajnu sučelja (prilagodba boja)
 * Objava na Amazon App Store :proud:
 
-###v2.4
+### v2.4
 
 * Fix loading bar layouta (v2.3 beta)
 * Omanje optimizacije koda
 * Svi linkovi koji nisu na moj.tvz.hr (v2.3) kao i sva preuzimanja otvaraju vaš browser
 * Prije preuzimanja potreban je login i u browseru (scumbag TVZ)
 
-###v2.2
+### v2.2
 
 * Postoji mali crni loadbar na vrhu prozora :)
 * O aplikaciji prozorček je dodan sa nekim informacijama o aplikaciji :D
 * Code optimizacije hehe
 
-###v2.1
+### v2.1
 
 * Back tipka radi ono što bi i trebala, vraća na prethodnu stranicu a ne izlazi odmah iz aplikacije :cheer:
 * Sitne optimizacije koda
 * Download link je gore
 
-###v2.0
+### v2.0
 
 * Uklonjen defaulni web checkerboard background
 * Uklonjen logo i sve grafike sa weba
@@ -73,22 +71,16 @@ Link - http://forum.xda-developers.com/android/apps-games/app-moj-tvz-android-t3
     * Raspored sati (korisno)
     * Odjava (za iOS korisnike da vide što ih zanima ;) :trollface: )
 
-## Što je novo u alpha verziji (neobjavljeno):
-
-* Izrada Navigation Drawera koristeći Google Design Support Library
-* Uklanjanje podrška za Android 4.0.x i 4.1.x
-* Izrada nove ikone
-
 ## Tehnologije korištene za izradu aplikacije
 
 * Java
 * JavaScript (za XSS uređenje weba kad neće učitavati extrenal CSS file)
 
 
-## Minimalni zahtjevi (na dan 25. 01. 2015.)
+## Minimalni zahtjevi (na dan 25. 11. 2015.)
 
-* Android 4.0 i noviji
+* Android 4.4 i noviji
 * MDPI rezolucija ekrana (320 x 480 px)
 
 
-Copyright &copy; 2014-2016 by Marko Idžan
+Copyright &copy; 2014-2020 by Marko Idžan
