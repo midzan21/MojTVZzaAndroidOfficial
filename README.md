@@ -9,11 +9,7 @@ Android aplikacija za Intranet portal Tehničkog veleučilišta u Zagrebu.
 
 # Download link
 
-Play Store - Soon™
-
 Amazon App Store - http://bit.ly/MojTVZAndroid
-
-Android File Host - http://bit.ly/MojTVZAndroidv4AFHMirrorNew
 
 ## Istaknuto i na xda-developers forumu
 
@@ -23,7 +19,7 @@ Link - http://forum.xda-developers.com/android/apps-games/app-moj-tvz-android-t3
 
 ## Changelog
 
-### v5.1
+### v5.1 (Nije izdano nikad)
 
 * Update Developer Toolkita
 * Ispravljanje bugova uz konstantnu prijavu u aplikaciju kod prelaska na novi tab (WebView problem)
